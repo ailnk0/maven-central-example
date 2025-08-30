@@ -6,7 +6,7 @@
     <!-- 1. 프로젝트 기본 정보 -->
     <groupId>io.github.ailnk0</groupId>
     <artifactId>maven-central-example</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
 
     <name>Maven Central Example</name>
